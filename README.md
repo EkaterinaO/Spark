@@ -1,6 +1,6 @@
 # Spark
 
-How to setup Spark on Azure Ubuntu server:
+How to setup Spark on Azure Ubuntu server and use it from Jupyter notebook on your computer:
 
 1. I launched Azure Ubuntu server;
 
